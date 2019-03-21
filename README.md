@@ -125,6 +125,8 @@ First, update your system with `yum update` and reboot. This is optional, but re
 
 Follow the same steps as above, but replace `https://git.io/vpnsetup` with `https://git.io/vpnsetup-centos`.
 
+open udp/tcp port 500 and 4500.
+
 ## Next steps
 
 Get your computer or device to use the VPN. Please refer to:
