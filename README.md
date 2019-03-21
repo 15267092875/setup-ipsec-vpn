@@ -126,6 +126,8 @@ First, update your system with `yum update` and reboot. This is optional, but re
 Follow the same steps as above, but replace `https://git.io/vpnsetup` with `https://git.io/vpnsetup-centos`.
 
 open udp/tcp port 500 and 4500.
+[替换为你自己的值： YOUR_IPSEC_PSK, YOUR_USERNAME 和 YOUR_PASSWORD]
+sudo sh vpnsetup.sh
 
 ## Next steps
 
